@@ -18,6 +18,7 @@ Welcome to the Financial Reporting & Analysis with Power BI repository! This pro
 - **Data Analysis Expression (DAX)**: Leveraged for advanced data modeling and calculations.
 - **Financial Analysis Technique**: Applied to ensure accurate financial reporting and analysis.
 
+
 # Examples
 
 Here are a few examples of what you can do with the Financial Reporting & Analysis with Power BI solution:
@@ -26,3 +27,7 @@ Analyze sales and revenue to identify trends and anomalies.
 Create scenario analysis models to evaluate the impact of different business decisions on financial performance.
 Perform comparative analysis across different time periods or business units.
 Happy analyzing! 📊💼
+
+# Report Link
+https://app.powerbi.com/reportEmbed?reportId=12b262d3-7f91-4b83-8ed0-08054fad51c7&autoAuth=true&ctid=b52f8f62-cdb3-4700-831b-0f7f476f1b5a
+
