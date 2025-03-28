@@ -29,5 +29,5 @@ Perform comparative analysis across different time periods or business units.
 Happy analyzing! 📊💼
 
 # Report Link
-https://app.powerbi.com/reportEmbed?reportId=12b262d3-7f91-4b83-8ed0-08054fad51c7&autoAuth=true&ctid=b52f8f62-cdb3-4700-831b-0f7f476f1b5a
+[Finance KPI Dashboard Link](https://app.powerbi.com/reportEmbed?reportId=12b262d3-7f91-4b83-8ed0-08054fad51c7&autoAuth=true&ctid=b52f8f62-cdb3-4700-831b-0f7f476f1b5a)
 
